@@ -28,5 +28,7 @@ Set `larget_text` and `small_text` on `assets[]` as u want. It is image tooltips
 
 `CLIENT_ID` was the discord application client id.
 
+### You need to open discord application
+
 ## More things
 Find out more on this <a href="https://github.com/discord/discord-rpc">Github Repo</a>.
